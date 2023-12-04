@@ -51,6 +51,7 @@ Others
     &emsp;
     <a href="https://solecity.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
     <a href="https://www.artstation.com/solecity" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=ArtStation&color=222222&logo=ArtStation&logoColor=13AFF0&label=" /></a>
+      <a href="https://www.linkedin.com/in/mariana-m-64966a63/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <!--
